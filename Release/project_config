@@ -1,0 +1,17 @@
+# 项目包名称, 路径名称
+package_name=algo_gateway
+
+# 编译文件夹/可执行文件/测试文件名称
+build_folder_path=GateWay
+build_exec_name=AlgoGateWay
+
+# 监控脚本名称
+monitor_py_name=algo_gateway_monitor.py
+
+# server.sh版本号获取, 文件相对路径从项目根目录开始计算
+version_file_path=./GateWay/Const.go
+version_key=GateWayVersion
+
+# 用于server.sh, 生成协议路径及执行文件
+proxy_generate_path=./Protobuf/script/go_generate_proxy.sh
+proxy_out_path=../../Common/GateWayProtos/

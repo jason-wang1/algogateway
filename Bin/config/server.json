@@ -1,0 +1,11 @@
+{
+    "server_list": [
+        {
+            "host": "algorithm-test",
+            "ip": "172.22.22.189",
+            "port": "9080",
+            "exe": "AlgoGateWay",
+            "nickname": "[开发服]算法网关"
+        }
+    ]
+}

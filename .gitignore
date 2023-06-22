@@ -1,0 +1,14 @@
+.vscode
+cmake
+bin
+*.out
+*.log
+Bin/AlgoGateWay
+Release/AlgoGateWay
+LogAlgoGateWay
+GateWay/docs
+GateWay/GateWay
+cpptools-*.core
+report_log
+
+algo_gateway_*

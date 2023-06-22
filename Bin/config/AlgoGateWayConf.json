@@ -1,0 +1,11 @@
+{
+    "IP": "0.0.0.0",
+    "Http": {
+        "ReadTimeout": 30000,
+        "WriteTimeout": 30000
+    },
+    "RegisterCenterAddr": [
+        "172.22.22.189:6000"
+    ],
+    "ServiceGroupTab": "default"
+}
